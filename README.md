@@ -16,5 +16,4 @@
 [![Blog Badge](http://img.shields.io/badge/-Blog-0076D6?style=flat-square&logo=Internet%20Explorer&link=https://n-square.tistory.com/)](https://n-square.tistory.com/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeondiary@gmail.com)](mailto:yeondiary@gmail.com)
 [![Baekjoon Badge](http://img.shields.io/badge/-Baekjoon-ff813f?style=flat-square&logo=Buy%20Me%20A%20Coffee&logoColor=white&link=https://www.acmicpc.net/user/lsyn97)](https://www.acmicpc.net/user/lsyn97) 
-[![Instagram Badge](https://img.shields.io/badge/-diary.bean-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/diary.bean/)](https://www.instagram.com/diary.bean/)
 </div>
